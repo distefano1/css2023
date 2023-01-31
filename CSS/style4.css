@@ -11,8 +11,6 @@ body{
 
 div{
     background-color: aqua;
-    border: 15px;
-    border-color: black;
 }
 div > div{
     background-color: blue;
